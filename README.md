@@ -13,7 +13,7 @@ API Documentation for reference:
 [Ruckus API for version 5.1.2.0](http://docs.ruckuswireless.com/smartzone/5.1.2/sz300-public-api-reference-guide-512.html#top/)
 
 
-# show_zonne&ssid.py
+# show_zone&ssid.py
 
 Prerequisites: requests, urllib3, stdiomask
 
