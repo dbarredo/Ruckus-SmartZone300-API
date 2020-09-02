@@ -15,7 +15,11 @@ API Documentation for reference:
 
 # show_zone&ssid.py
 
-Prerequisites: requests, urllib3, stdiomask
+Prerequisites: 
+- pip3 install requests 
+- pip3 install urllib3 
+- pip3 install stdiomask
+
 
 Prints all the configured zones and ssid on the  Ruckus SmartZone
 
